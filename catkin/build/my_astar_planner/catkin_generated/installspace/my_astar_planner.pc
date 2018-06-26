@@ -1,0 +1,8 @@
+prefix=/home/oscar/Escritorio/TSI/Practica1/catkin_ws/install
+
+Name: my_astar_planner
+Description: Description of my_astar_planner
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/oscar/Escritorio/TSI/Practica1/catkin_ws/install/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC     -shared -Wl,-soname,libmy_astar_planner.so -o /home/oscar/Escritorio/TSI/Practica1/catkin_ws/devel/lib/libmy_astar_planner.so CMakeFiles/my_astar_planner.dir/src/myAstarPlanner.cpp.o 
